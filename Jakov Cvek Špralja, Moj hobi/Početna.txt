@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head><title>Moji hobiji</title>
+</head>
+<body bgcolor="#A4E8E0">
+<center>
+<b><p><font color="#4cd7d0" size="100">Crtanje</font></p></b><br>
+<b><p><font color="#4cd7d0" size="75">Klasično i digitalno</font></p></b>
+<td><a href="Početna.html"><img src="Home.svg" height="50" weidth="50"></td>
+</a>
+<td><a href="O meni.html"><img src="Icon.jpeg" ></td>
+</a>
+<td><a href="korisnost.html"><img src="button2.png" ></td>
+</a>
+<td><a href="shop.html"><img src="button3.png" ></td>
+</a>
+
+</center>
+</body>
+</html>
+
